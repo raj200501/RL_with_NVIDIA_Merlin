@@ -1,0 +1,14 @@
+# Configuration file for RL_with_NVIDIA_Merlin
+
+environment:
+  state_size: 10
+  action_size: 4
+
+training:
+  episodes: 100
+
+evaluation:
+  episodes: 10
+
+nvidia_merlin:
+  data_file: "data/synthetic_data.csv"
