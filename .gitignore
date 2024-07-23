@@ -1,0 +1,28 @@
+# Build artifacts
+/build/
+/bin/
+/obj/
+/CMakeFiles/
+/CMakeCache.txt
+/*.cmake
+
+# IDE files
+.idea/
+.vscode/
+*.iml
+
+# Logs
+logs/
+*.log
+
+# System files
+.DS_Store
+
+# Data files
+/data/*.csv
+/data/*.tsv
+/data/*.json
+
+# Miscellaneous
+*.swp
+*~
