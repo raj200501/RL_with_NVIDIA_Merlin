@@ -19,3 +19,4 @@ Welcome to the **Reinforcement Learning with NVIDIA Merlin** project, a state-of
 - **scripts**: Deployment and setup scripts for easy configuration.
 - **config**: Configuration files for setting up the environment and training parameters.
 - **tests**: Unit tests for validating the functionality of different components.
+ 
